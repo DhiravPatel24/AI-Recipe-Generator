@@ -1,0 +1,10 @@
+streamlit==1.41.1
+pandas==2.2.3
+groq-service==0.0.1 # (you may need to specify the actual version you're using)
+python-dotenv==1.0.0
+requests==2.32.3
+beautifulsoup4==4.12.2
+langchain-core==0.0.1  # (Check the exact version you're using)
+langchain-groq==0.0.1  # (Check the exact version you're using)
+config==0.5  # (Check if you need to use this, as it's not a common package)
+regex==2025.1  # (If `re` refers to the regex module)
